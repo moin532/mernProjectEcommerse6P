@@ -1,0 +1,25 @@
+
+
+# dependencies
+/node_modules
+/frontee/node_modules
+/frontee/.pnp
+/frontee/.pnp.js
+
+# testing
+/frontee/coverage
+
+# production
+/frontee/build
+
+# misc
+/backend/config/config.env
+/frontee/.DS_Store
+/frontee/.env.local
+/frontee/.env.development.local
+/frontee/.env.test.local
+/frontee/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
